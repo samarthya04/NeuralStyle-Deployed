@@ -7,7 +7,7 @@ import torchvision.transforms as transforms
 import torchvision.models as models
 from PIL import Image
 import requests
-from serpapi import GoogleSearch
+from serpapi.google_search import GoogleSearch
 import os
 
 app = Flask(__name__)
