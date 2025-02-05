@@ -8,3 +8,4 @@ beautifulsoup4
 flask
 gunicorn
 python-dotenv
+google-search-results
