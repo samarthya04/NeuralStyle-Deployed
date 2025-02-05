@@ -1,7 +1,6 @@
 attrs==25.1.0
 beautifulsoup4==4.13.1
 blinker==1.9.0
-Bottleneck @ file:///C:/b/abs_816hr2khp1/croot/bottleneck_1731058648110/work
 cairocffi==1.7.1
 CairoSVG==2.7.1
 certifi==2025.1.31
@@ -30,23 +29,16 @@ MarkupSafe==3.0.2
 matplotlib==3.9.4
 mpmath==1.3.0
 networkx==3.2.1
-numexpr @ file:///D:/bld/numexpr_1732736307976/work
-numpy @ file:///D:/bld/numpy_1732314314278/work/dist/numpy-2.0.2-cp39-cp39-win_amd64.whl#sha256=8824ea87142626db7bbf79bdbcbd5b3a2fd77d7570bd62b4f705100e42b651e1
 outcome==1.3.0.post0
 packaging==24.2
-pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp39-cp39-win_amd64.whl#sha256=f3b41dc9b2687250cbbb5587843986d13008da63bfb026b34d05d4d2f3eab666
 pillow==11.1.0
 pycparser==2.22
 pyparsing==3.2.1
 PySocks==1.7.1
-python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
 python-dotenv==1.0.1
-pytz @ file:///C:/b/abs_6ap4tsz1ox/croot/pytz_1713974360290/work
 requests==2.32.3
-scipy @ file:///C:/bld/scipy-split_1716470385682/work/dist/scipy-1.13.1-cp39-cp39-win_amd64.whl#sha256=490e922ef930c40e74290d95915a98295b9059d02849059317bab82ba7810581
 selenium==4.28.1
 simplejson==3.19.3
-six @ file:///tmp/build/80754af9/six_1644875935023/work
 sniffio==1.3.1
 sortedcontainers==2.4.0
 soupsieve==2.6
@@ -57,7 +49,6 @@ torchvision==0.21.0+cpu
 trio==0.28.0
 trio-websocket==0.11.1
 typing_extensions==4.12.2
-tzdata @ file:///croot/python-tzdata_1690578112552/work
 urllib3==2.3.0
 webdriver-manager==4.0.2
 webencodings==0.5.1
