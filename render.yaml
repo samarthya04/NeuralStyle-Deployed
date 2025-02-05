@@ -9,6 +9,9 @@ services:
         sync: false
       - key: FLASK_ENV
         value: production
+      - key: PYTHON_VERSION
+        value: 3.11.11
+
     disk:
       name: uploads
       mountPath: /opt/render/project/src/uploads
