@@ -104,9 +104,9 @@ tensorflow-io-gcs-filesystem==0.31.0
 termcolor
 threadpoolctl==3.5.0
 tifffile==2025.2.18
-torch==2.6.0+cu126
-torchaudio==2.6.0+cu126
-torchvision==0.21.0+cu126
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0
 tqdm
 traitlets==5.14.3
 typing_extensions
